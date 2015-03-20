@@ -1,0 +1,26 @@
+[general] 
+creator=R package 'raster' 
+created= 2014-04-24 15:21:30 
+[georeference] 
+nrows= 515 
+ncols= 733 
+xmin= 393725 
+ymin= 4698555 
+xmax= 401055 
+ymax= 4703705 
+projection= +proj=utm +zone=18 +datum=NAD27 +units=m +no_defs +ellps=clrk66 +nadgrids=@conus,@alaska,@ntv2_0.gsb,@ntv1_can.dat 
+[data] 
+datatype= FLT8S 
+byteorder= little 
+nbands= 1 
+bandorder= BIL 
+categorical= FALSE 
+minvalue= -0.0914077683481955 
+maxvalue= 23.3840846583098 
+nodatavalue= -1.7e+308 
+[legend] 
+legendtype=  
+values=  
+color=  
+[description] 
+layername= layer 
